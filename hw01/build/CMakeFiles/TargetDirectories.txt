@@ -1,0 +1,3 @@
+/home/illusionary/文档/games102/games102_relevant_code/hw01/build/CMakeFiles/MyExecutable.dir
+/home/illusionary/文档/games102/games102_relevant_code/hw01/build/CMakeFiles/edit_cache.dir
+/home/illusionary/文档/games102/games102_relevant_code/hw01/build/CMakeFiles/rebuild_cache.dir
