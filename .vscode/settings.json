@@ -1,5 +1,6 @@
 {
     "files.associations": {
         "vector": "cpp"
-    }
+    },
+    "cmake.sourceDirectory": "/home/illusionary/文档/games102/games102_relevant_code/hw01"
 }
